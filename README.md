@@ -42,7 +42,10 @@ accessibility and content management will catch my attention.
 
 #### 💡 Fun facts
 
-- Despite my disability, I'm practicing japanese martial arts. I hold a black belt in 
-Kenjutsu (fencing) and two gradings in Jujutsu (grappling).
-- In my free time I'm building and painting miniatures or trying to finish my RC truck 
-in 1:14 scale. And it will never be finished, I'm afraid 😅
+- Despite my disability, I'm practicing japanese martial arts.  
+I hold a black belt in Kenjutsu (fencing) and two gradings in Jujutsu (grappling).
+- In 2019, I participated in a charity run for children rights.  
+I finished two kilometers of relay race in my wheelchair before my collegues took over 😊
+- In my free time I'm building and painting tabletop miniatures and scale models or trying 
+to finish my RC truck in 1:14 scale.  
+And it will never be finished, I'm afraid 😅
