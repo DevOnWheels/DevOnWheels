@@ -9,7 +9,7 @@ It's nice to meet you!
 
 #### 🛠 I’m currently working on ...
 
-... my small business [devonwheels.net](https://www.devonwheels.net), my personal website 
+... my small business Dev On Wheels, my personal website 
 [labsch.net](https://matthias.labsch.net) and several client websites for a physiotherapist, 
 personal coaches and an international martial arts association.
 
