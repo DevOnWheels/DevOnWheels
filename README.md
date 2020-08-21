@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-My name is Matthias, I'm a software engineer based in Freiburg, near the Black Forest in 
-Germany. I'm a full-time employee currently working at a german automotive supplier. In 
-2019 I started a small business where I offer consulting and developing services for other 
-small businesses and associations of all kind. I've a disability called congenital 
-muscle dystrophy (CMD), so I got the name "Dev On Wheels" and used it for my business. 
-It's nice to meet you! 
+My name is Matthias, I'm a software engineer based in Freiburg, close to the Black Forest 
+in Germany. I'm a full-time employee currently working at a german automotive supplier. In 
+2019, I started a small business where I offer consulting and developing services for other 
+small businesses and associations. I have a disability called congenital muscle dystrophy 
+(CMD), so I got the name "Dev On Wheels" and used it for my business. It's nice to meet you! 
 
 #### 🛠 I’m currently working on ...
 
@@ -14,7 +13,7 @@ It's nice to meet you!
 personal coaches and an international martial arts association.
 
 I'm also dipping my toe into Arduino programming to develop a pet project of mine, a 
-wheelie detector for my wheelchair 😜😂 If the fun part works, I'll develop some serious 
+wheelie detector for my wheelchair. If the fun part works, I'll develop some serious 
 applications for it as well.
 
 For my work I'm using:  
@@ -45,7 +44,7 @@ accessibility and content management will catch my attention.
 - Despite my disability, I'm practicing japanese martial arts.  
 I hold a black belt in Kenjutsu (fencing) and two gradings in Jujutsu (grappling).
 - In 2019, I participated in a charity run for children rights.  
-I finished two kilometers of relay race in my wheelchair before my collegues took over 😊
+I finished two kilometers of relay race in my wheelchair before my collegues took over.
 - In my free time I'm building and painting tabletop miniatures and scale models or trying 
 to finish my RC truck in 1:14 scale.  
-And it will never be finished, I'm afraid 😅
+And it will never be finished, I'm afraid ...
