@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Matthias, I'm a software engineer based in Freiburg, close to the Black Forest 
+My name is Matthias Labsch a.k.a.  Labschi, I'm a software engineer based in Freiburg, close to the Black Forest 
 in Germany. I'm a full-time employee currently working at a german automotive supplier. In 
 2019, I started a small business where I offer consulting and developing services for other 
 small businesses and associations. I have a disability called congenital muscle dystrophy 
@@ -8,7 +8,7 @@ small businesses and associations. I have a disability called congenital muscle 
 
 #### 🛠 I’m currently working on ...
 
-... my small business Dev On Wheels, my personal website 
+... my small business [Dev On Wheels](https://www.devonwheels.net), my personal website 
 [labsch.net](https://matthias.labsch.net) and several client websites for a physiotherapist, 
 personal coaches and an international martial arts association.
 
