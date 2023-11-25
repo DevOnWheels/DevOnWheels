@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Matthias Labsch a.k.a.  Labschi, I'm a software engineer based in Freiburg, close to the Black Forest 
-in Germany. I'm a full-time employee currently working at a german automotive supplier. In 
+My name is Matthias Labsch a.k.a.  Labschi, I'm a software engineer based in Ettenheim, close to the Black Forest 
+in Germany. I'm a full-time employee currently working for a german automotive supplier. In 
 2019, I started a small business where I offer consulting and developing services for other 
 small businesses and associations. I have a disability called congenital muscle dystrophy 
 (CMD), so I got the name "Dev On Wheels" and used it for my business. It's nice to meet you! 
