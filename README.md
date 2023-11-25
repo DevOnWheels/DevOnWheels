@@ -8,8 +8,8 @@ small businesses and associations. I have a disability called congenital muscle 
 
 #### 🛠 I’m currently working on ...
 
-... my small business [Dev On Wheels](https://www.devonwheels.net), my personal website 
-[matthias.labsch.net](https://matthias.labsch.net) and several client websites for a physiotherapist, 
+... my small business [Dev On Wheels](https://www.devonwheels.net) (german), my personal website 
+[matthias.labsch.net](https://matthias.labsch.net) (german) and several client websites for a physiotherapist, 
 personal coaches and an international martial arts association.
 
 I'm also dipping my toe into Arduino programming to develop a pet project of mine, a 
