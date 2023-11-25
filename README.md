@@ -26,25 +26,27 @@ For my work I'm using:
 <img src="https://img.shields.io/badge/-Symfony-%23000000" alt="Symfony" /> 
 <img src="https://img.shields.io/badge/-WordPress-%2321759B" alt="WordPress" />
 <img src="https://img.shields.io/badge/-Git-%23F05032" alt="Git" />
+<img src="https://img.shields.io/badge/-11ty-%23292929" alt="11ty" />
 
 #### 📚 I’m trying to learn ...
 
 - ... C++ to program my Arduino micro controller.
-- ... Docker and AWS for my main job.
-- ... ReactJS for various applications.
+- ... 11ty and Netlify to maintain my personal blog and business website.
 
 #### 💬 Let's talk about ...
 
+- ... inclusion and accessibility as a human right.
 - ... living as a disabled software developer and occasional wheelchair user!
 - ... web development! Especially CSS tricks and structures (ITCSS, Modules, ...), 
 accessibility and content management will catch my attention.
 
 #### 💡 Fun facts
 
-- Despite my disability, I'm practicing japanese martial arts.  
+- Despite my disability, I was practicing japanese martial arts for over eight years.  
 I hold a black belt in Kenjutsu (fencing) and two gradings in Jujutsu (grappling).
 - In 2019, I participated in a charity run for children rights.  
-I finished two kilometers of relay race in my wheelchair before my collegues took over.
+I finished two kilometers of relay race in my wheelchair before my collegues took over on foot.
+- On November 2022 I was elected Deputy SHE-REP (Severely Handicapped Employees Representative) for my current employer.
 - In my free time I'm building and painting tabletop miniatures and scale models or trying 
 to finish my RC truck in 1:14 scale.  
 And it will never be finished, I'm afraid ...
