@@ -17,21 +17,18 @@ wheelie detector for my wheelchair. If the fun part works, I'll develop some ser
 applications for it as well.
 
 For my work I'm using:  
-<img src="https://img.shields.io/badge/-CSS-%231572B6" alt="CSS" />
-<img src="https://img.shields.io/badge/-SASS-%23CC6699" alt="SASS" />
-<img src="https://img.shields.io/badge/-HTML-%23E34F26" alt="HTML" />
-<img src="https://img.shields.io/badge/-Javascript-%23F7DF1E" alt="Javascript" />
-<img src="https://img.shields.io/badge/-Grunt-%23FBA919" alt="Grunt" />
-<img src="https://img.shields.io/badge/-PHP-%23777BB4" alt="PHP" />
-<img src="https://img.shields.io/badge/-Symfony-%23000000" alt="Symfony" /> 
-<img src="https://img.shields.io/badge/-WordPress-%2321759B" alt="WordPress" />
-<img src="https://img.shields.io/badge/-Git-%23F05032" alt="Git" />
-<img src="https://img.shields.io/badge/-11ty-%23292929" alt="11ty" />
+<img src="https://img.shields.io/badge/-CSS-%231572B6" alt="CSS">
+<img src="https://img.shields.io/badge/-SASS-%23CC6699" alt="SASS">
+<img src="https://img.shields.io/badge/-HTML-%23E34F26" alt="HTML">
+<img src="https://img.shields.io/badge/-Javascript-%23F7DF1E" alt="Javascript">
+<img src="https://img.shields.io/badge/-Grunt-%23FBA919" alt="Grunt">
+<img src="https://img.shields.io/badge/-Gulp-%23CF4647" alt="Gulp">
+<img src="https://img.shields.io/badge/-PHP-%23777BB4" alt="PHP">
+<img src="https://img.shields.io/badge/-Git-%23F05032" alt="Git">
 
 #### 📚 I’m trying to learn ...
 
-- ... C++ to program my Arduino micro controller.
-- ... 11ty and Netlify to maintain my personal blog and business website.
+- ... how C++ works as a programming language.
 
 #### 💬 Let's talk about ...
 
@@ -48,5 +45,4 @@ I hold a black belt in Kenjutsu (fencing) and two gradings in Jujutsu (grappling
 I finished two kilometers of relay race in my wheelchair before my collegues took over on foot.
 - On November 2022 I was elected Deputy SHE-REP (Severely Handicapped Employees Representative) for my current employer.
 - In my free time I'm building and painting tabletop miniatures and scale models or trying 
-to finish my RC truck in 1:14 scale.  
-And it will never be finished, I'm afraid ...
+to finish my RC truck in 1:14 scale. And it will never be finished, I'm afraid ...
