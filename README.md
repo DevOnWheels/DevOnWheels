@@ -17,6 +17,7 @@ wheelie detector for my wheelchair. If the fun part works, I'll develop some ser
 applications for it as well.
 
 For my work I'm using:  
+<img src="https://img.shields.io/badge/Python-%234584b6%20" alt="Python">
 <img src="https://img.shields.io/badge/-CSS-%231572B6" alt="CSS">
 <img src="https://img.shields.io/badge/-SASS-%23CC6699" alt="SASS">
 <img src="https://img.shields.io/badge/-HTML-%23E34F26" alt="HTML">
